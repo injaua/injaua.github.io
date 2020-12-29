@@ -8,6 +8,7 @@ body{
 
 #download, #download1, #footer{
        background-image: url("Arquivos/Backimg.png");
+        background-color: blue;
 }
 
 section div h1{
